@@ -19,7 +19,7 @@ Experience with Scrum e Kanban(Jira).<br>
 • Mobile Development:<br>
 Knowledge in native development for Android with Cordova.<br>
 • Big Data:<br>
-Creation and operation of a Hadoop cluster for Big Data in Docker; Sqoop for data ingestion; Batch processing with Spark; Data storage with HBase and HDFS; Optimization of queries on large volumes of structured and semi-structured data using Spark and Hive.<br>
+Creation and operation of a Hadoop cluster for Big Data in Docker, Sqoop for data ingestion, Batch processing with Spark, Data storage with HBase and HDFS, Optimization of queries on large volumes of structured and semi-structured data using Spark and Hive.<br>
 • Cognitive:<br>
 Modeling and documentation using UML.<br></h4>
 
