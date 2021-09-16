@@ -54,13 +54,19 @@ Modeling and documentation using UML.<br></h4>
 </ul>
 <p align="left">
   <a href="https://www.microsoft.com/pt-br/windows/" rel="nofollow"> <img src="https://camo.githubusercontent.com/073d59ec60e56b9c96fd6059dbebdece5ff17ba57676abcc034fd3f6bb520654/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f706e672f3531322f3733322f3733323232312e706e67" alt="windows" width="40" height="40" data-canonical-src="https://image.flaticon.com/icons/png/512/732/732221.png" style="max-width: 100%;"> </a>
-  <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"> </a>
-  <a href="https://ubuntu.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/42f21fbca7b937e950a46deab65cdf967e62f7b0fc18753fde60fb12f43a343d/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f552f7562756e74752d6c6f676f2d384644454336413037422d7365656b6c6f676f2e636f6d2e706e67" alt="ubuntu" width="40" height="40" data-canonical-src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" style="max-width: 100%;"> </a>
-  <a href="https://developer.android.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/248878e2eab7b3a8054288483216b751e6c319d4822bb28260b12fbc6058caa1/68747470733a2f2f69636f6e6170652e636f6d2f77702d636f6e74656e742f66696c65732f6e642f33333732392f7376672f616e64726f69642d6c6f676f6d61726b2e737667" alt="android" width="40" height="40" data-canonical-src="https://iconape.com/wp-content/files/nd/33729/svg/android-logomark.svg" style="max-width: 100%;"> </a>
+  
+    <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"> </a>
+    
   <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a>
-  <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
+  
+    <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
+  
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
+    
   <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a>
+    
+    <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://commons.wikimedia.org/wiki/File:Postgresql_elephant.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a>
+    
   <a href="https://www.java.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;"> </a>
   <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a>
   <a href="https://postman.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"> </a>
