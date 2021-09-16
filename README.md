@@ -1,7 +1,7 @@
 <div class="Box-body p-4">
     <div class="d-flex flex-justify-between">
       <div class="text-mono text-small mb-3">
-        <a href="/cicerooficial/cicerooficial" class="no-underline Link--primary">cicerooficial</a><span class="color-text-tertiary d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-text-tertiary">.md</span>
+        style="padding:0px 2px;">/</span>README<span class="color-text-tertiary">.md</span>
       </div>
 
     </div>
