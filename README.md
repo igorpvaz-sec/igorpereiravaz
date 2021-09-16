@@ -29,7 +29,7 @@ Modeling and documentation using UML.<br></h4>
 </li>
 </ul>
 <ul>
-<li><a href="https://github.com/cicerooficial/curso_Python3">Python</a> and <a href="https://github.com/cicerooficial/curso_MENTORAMA_Data_Science_Beginner">Data Science Beginner</a></li>
+<li><a href="https://laravel.com/">PHP | Laravel</a> and <a href="https://badgr.com/public/assertions/W1auKYVSSgWYHIW32ZQbCg">Data Engineer Beginner</a></li>
 </ul>
 <ul>
 <li>
