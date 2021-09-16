@@ -19,9 +19,9 @@ Experience with Scrum e Kanban(Jira).<br>
 • Mobile Development:<br>
 Knowledge in native development for Android with Cordova.<br>
 • Big Data:<br>
-Modelagens e documentações utilizando UML.<br></h4>
-• Cognitivos:<br>
-Modelagens e documentações utilizando UML.<br></h4>
+Creation and operation of a Hadoop cluster for Big Data in Docker; Sqoop for data ingestion; Batch processing with Spark; Data storage with HBase and HDFS; Optimization of queries on large volumes of structured and semi-structured data using Spark and Hive.<br>
+• Cognitive:<br>
+Modeling and documentation using UML.<br></h4>
 <p align="left"> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3a6e96d73b75de83aa38f5c8c80a065026d64edae5e4e668dd9f2ff33f51b244/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d63696365726f6f66696369616c266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/3a6e96d73b75de83aa38f5c8c80a065026d64edae5e4e668dd9f2ff33f51b244/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d63696365726f6f66696369616c266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="cicerooficial" data-canonical-src="https://komarev.com/ghpvc/?username=cicerooficial&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
 <ul>
 <li>
