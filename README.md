@@ -9,17 +9,19 @@
 <h5>
 Skills:<br>
 • Data / ETL / Analytics:<br>
-Conhecimento em Business Intelligence, DAX, ETL e relatórios com Power BI. Conhecimento em análises e relatórios utilizando Python.
-• Desenvolvimento Web:<br>
-Experiência com Laravel, GIT, HTML5, CSS3, Bootstrap, Javascript, Ajax, jQuery e Composer. Conhecimento em ASP.NET Core.Experiência com desenvolvimento de API’s.<br>
-• Base de Dados:<br>
-Experiência com Implementação de Stored Procedures, Triggers, modelagens, views e Querys nos SGBDs MySQL e Postgres.<br>
-• Metodologia Ágil:<br>
-Experiência com Scrum e Kanban(Jira).<br>
-• Desenvolvimento Mobile:<br>
-Conhecimento em desenvolvimento nativo para Android com Cordova.<br>
+Knowledge in Business Intelligence, DAX, ETL and reports using Power BI. Knowledge in analysis and reporting using Python.
+• Web Development:<br>
+Experience using Laravel, GIT, HTML5, CSS3, Bootstrap, Javascript, Ajax, jQuery and Composer. Experience with API's development.<br>
+• Databases:<br>
+Experience with Implementation of Stored Procedures, Triggers, modelagens, views and Querys nos SGBDs MySQL e Postgres.<br>
+• Agile Methodologies:<br>
+Experience with Scrum e Kanban(Jira).<br>
+• Mobile Development:<br>
+Knowledge in native development for Android with Cordova.<br>
+• Big Data:<br>
+Modelagens e documentações utilizando UML.<br></h4>
 • Cognitivos:<br>
-Conhecimento em C# e Java utilizando Hibernate do JPA. Modelagens e documentações utilizando UML.<br></h4>
+Modelagens e documentações utilizando UML.<br></h4>
 <p align="left"> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3a6e96d73b75de83aa38f5c8c80a065026d64edae5e4e668dd9f2ff33f51b244/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d63696365726f6f66696369616c266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/3a6e96d73b75de83aa38f5c8c80a065026d64edae5e4e668dd9f2ff33f51b244/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d63696365726f6f66696369616c266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="cicerooficial" data-canonical-src="https://komarev.com/ghpvc/?username=cicerooficial&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
 <ul>
 <li>
