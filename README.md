@@ -37,24 +37,16 @@ Modeling and documentation using UML.<br></h4>
 </li>
 </ul>
 <p align="left">
-  <a href="mailto:cicerooficial@gmail.com?">
+  <a href="mailto:igor.dastan07@gmail.com?">
     <img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
   </a>
-  <a href="https://linkedin.com/in/cicero-henrique-santos/" rel="nofollow">
+  <a href="https://www.linkedin.com/in/igor-pereira-vaz-6088b0152/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
   </a>  
-  <a href="https://www.instagram.com/c_hoficial/" rel="nofollow">
+  <a href="https://www.instagram.com/igorpereiravaz/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;">
   </a>
-  <a href="https://www.youtube.com/channel/UCi23a3VJwS6pWJvxyKaeZGQ" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/d79c5549652f9c7690992eb49571d216a70a480681561cbd93bfbfc77c491e54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://www.behance.net/ccerohenrique" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/79fb0e5205ba03746dae8d3b42123a6b327e9a6bfc3b27bc5f5845631114490c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426568616e63652d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d626568616e6365266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&amp;logo=behance&amp;logoColor=white" style="max-width: 100%;">
-  </a>  
-  <a href="https://www.kaggle.com/cicerohenrique" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/3ca180624670f11a5818114d4ff65323461da0f91d94775f28d740ed228a8ece/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6167676c652d3239363266663f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6167676c65266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Kaggle-2962ff?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" style="max-width: 100%;">
-  </a> 
+  
 </p><ul>
 <li>
 <h3><a id="user-content-os--languages--frameworkstools" class="anchor" aria-hidden="true" href="#os--languages--frameworkstools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><strong>OS | Languages | Frameworks/Tools:</strong></h3>
