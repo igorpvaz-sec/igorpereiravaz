@@ -8,18 +8,15 @@
 <h4 align="left "><a id="user-content-bachelor-of-information-systems-with-5-years-of-experience-in-digital-manufacturing-technologies-and-fab-labs-by-the-public-network-of-laboratories-fab-lab-livre-sp-i-am-passionate-about-learning-and-using-technology-always-looking-for-new-knowledge-and-challenges-currently-i-venture-with-arduino-raspberry-robotics-data-and-ai" class="anchor" aria-hidden="true" href="#bachelor-of-information-systems-with-5-years-of-experience-in-digital-manufacturing-technologies-and-fab-labs-by-the-public-network-of-laboratories-fab-lab-livre-sp-i-am-passionate-about-learning-and-using-technology-always-looking-for-new-knowledge-and-challenges-currently-i-venture-with-arduino-raspberry-robotics-data-and-ai"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Technologist in systems analysis and development at the Federal Institute of São Paulo.</h4>
 <h5>
 Skills:<br>
-• Data / ETL / Analytics:<br>
-Knowledge in Business Intelligence, DAX, ETL and reports using Power BI. Knowledge in analysis and reporting using Python.
+• Big Data / ETL / Analytics / Engineer:<br>
+Knowledge in Business Intelligence, DAX, ETL and reports using Power BI. Knowledge in analysis and reporting using Python. Knowledge in currents Big Data Tools: Hadoop, Sqoop, Spark, Hive, HBase. Knowledge in Data Engineer tools: Elastic Search and Spark Data Processing.
 • Web Development:<br>
-Experience using Laravel, GIT, HTML5, CSS3, Bootstrap, Javascript, Ajax, jQuery and Composer. Experience with API's development.<br>
+Experience using Laravel and Symfony, GIT, HTML5, CSS3, Bootstrap and Javascript. Experience with API's development.<br>
 • Databases:<br>
-Experience with Implementation of Stored Procedures, Triggers, modelagens, views and Querys nos SGBDs MySQL e Postgres.<br>
+Experience with Implementation of Stored Procedures, Triggers, modelagens, views and Querys nos SGBDs MySQL e Postgres. Knowledge in MongoDB(Express, Atlas eand
+Compass) and Redis. <br>
 • Agile Methodologies:<br>
 Experience with Scrum e Kanban(Jira).<br>
-• Mobile Development:<br>
-Knowledge in native development for Android with Cordova.<br>
-• Big Data:<br>
-Creation and operation of a Hadoop cluster for Big Data in Docker, Sqoop for data ingestion, Batch processing with Spark, Data storage with HBase and HDFS, Optimization of queries on large volumes of structured and semi-structured data using Spark and Hive.<br>
 • Cognitive:<br>
 Modeling and documentation using UML.<br></h4>
 
